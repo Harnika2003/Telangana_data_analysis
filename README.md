@@ -1,4 +1,4 @@
-<img width="1499" height="793" alt="Screenshot 2025-10-28 211907" src="https://github.com/user-attachments/assets/45956594-1fac-4c2c-a6b2-c31c756e0649" />
+
 # Telangana Weather Data Analysis Dashboard
 
 ## **Project Overview**
